@@ -1,0 +1,28 @@
+_repo: No-Shield-from-the-Dead_32410
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32410-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dickson, Gordon R.
+    birthdate: 1923
+    deathdate: 2001
+    gutenberg_agent_id: '35832'
+    url: http://www.gutenberg.org/2009/agents/35832
+    wikipedia: http://en.wikipedia.org/wiki/Gordon_R._Dickson
+description: No conceivable force could penetrate Terri's shield. Yet he was defenseless.
+gutenberg_issued: '2010-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: No Shield from the Dead
+url: http://www.gutenberg.org/ebooks/32410
