@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35832
     wikipedia: http://en.wikipedia.org/wiki/Gordon_R._Dickson
 description: No conceivable force could penetrate Terri's shield. Yet he was defenseless.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32410#No-Shield-from-the-Dead
 gutenberg_issued: '2010-05-18'
 gutenberg_type: Text
 identifiers:
